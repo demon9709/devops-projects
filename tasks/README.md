@@ -11,14 +11,14 @@ Each folder contains the task description and all required files (if any).
 2. Go to the task folder you want to solve
 3. Read the `README.md` inside the task folder carefully  
 4. Work on your solution in your own fork  
-5. When ready, open a **Pull Request** to this repository (optional)
+5. When ready, open a **Pull Request** to this repository _(optional)_
 
 ---
 
 ## 📌 Notes
 - Direct pushes to `main` branch are **restricted**  
 - Use **branches** for your solutions (e.g., `<your-name>/docker-task-1`)  
-- Each task has a **difficulty rating** ⭐ to help you choose  
+- Each task has a **difficulty rating** ⭐ to help you choose
 
 ---
 
