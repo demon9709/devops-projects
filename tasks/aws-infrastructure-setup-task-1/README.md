@@ -35,7 +35,7 @@ Create a simple **AWS** infrastructure using **IaC (CloudFormation or Terraform)
 - Configure appropriate security settings for the **ALB**.  
 
 ### Web Application  
-- Create a simple **HTML page** with the content: **"Devops rules the world!"**  
+- Create a simple **HTML** page with the content: `"Devops rules the world!"`
 - Upload this **HTML page** to the **EFS** file system.  
 
 ---
