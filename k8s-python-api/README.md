@@ -1,5 +1,9 @@
 # Plan deployment for a web application
 
+📊 **Difficulty: ⭐⭐ ☆ ☆ ☆ (2/5)**  
+
+---
+
 Assignment is to plan the deployment for a web application (for example, a simple Python API) which is intended to operate within a **Kubernetes cluster**.  
 The plan has to be detailed and should include the ability to scale, as well as safety and maintenance factors.  
 
