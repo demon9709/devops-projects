@@ -16,7 +16,7 @@ This task simulates a real-world DevOps scenario where you need to take existing
 
 ### Application
 - The Flask app is already provided in this repo.
-- It runs on **`port 8000`**.
+- It runs on port `8000`.
 - You must create a **Dockerfile** and build the image.
 
 ### Kubernetes Objects
@@ -68,3 +68,4 @@ The task is considered complete if:
 ---
 
 ⚪ **_For some help you can reach Mate Academy mentors_**
+
