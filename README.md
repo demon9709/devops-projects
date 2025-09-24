@@ -1,4 +1,7 @@
-# DevOps Test Tasks Repository
+<h1 align=center>DevOps Test Tasks Repository</h1>
+<img align=center width="1982" height="1020" alt="7602 1513404277" src="https://github.com/user-attachments/assets/eb75aaad-6e4b-4c5e-b9c4-9c2363d76bb7" />
+
+---
 
 Welcome to the **DevOps Test Tasks Repository** 🚀  
 
