@@ -15,3 +15,15 @@ The tasks cover a wide range of topics and technologies, including:
 
 ## 📌 Purpose
 This repository is intended as a **learning and reference resource**, helping DevOps professionals and learners strengthen their skills across different areas of modern infrastructure and automation.
+
+---
+
+## 🚀 How to start
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/devops-test-tasks.git
+```
+
+And now you can start working on task. Good Luck!
