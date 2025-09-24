@@ -1,6 +1,6 @@
 # Plan deployment for a web application
 
-Assignment is to plan the deployment for a web application (for example, a simple Python API) which is intended to operate within a Kubernetes cluster.  
+Assignment is to plan the deployment for a web application (for example, a simple Python API) which is intended to operate within a **Kubernetes cluster**.  
 The plan has to be detailed and should include the ability to scale, as well as safety and maintenance factors.  
 
 
@@ -24,3 +24,8 @@ The plan has to be detailed and should include the ability to scale, as well as 
 - **Networking**: How are you going to expose the REST API using APIs provided by Kubernetes networking (`Ingress`, `Service type`, `DNS`)?  
 - **Scaling**: Give an API scaling strategy (for example `Horizontal Pod Autoscaler`, resource limits).  
 - **Monitoring and Logging**: What is your plan for monitoring.  
+
+
+---
+
+⚪ **_For some help you can reach Mate Academy mentors_**
