@@ -1,6 +1,6 @@
 # 📂 DevOps Test Tasks
 
-Welcome to the **tasks section** of this repository.  
+Welcome to the **tasks section** of this repository!  
 Here you will find different **DevOps practice tasks** divided into separate folders.  
 Each folder contains the task description and all required files (if any).  
 
