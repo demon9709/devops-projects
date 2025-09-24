@@ -3,7 +3,6 @@
 Assignment is to plan the deployment for a web application (for example, a simple Python API) which is intended to operate within a Kubernetes cluster.  
 The plan has to be detailed and should include the ability to scale, as well as safety and maintenance factors.  
 
----
 
 ## Requirements
 
@@ -12,12 +11,10 @@ The plan has to be detailed and should include the ability to scale, as well as 
 - Persistence for the application is achieved by the use of a **Postgres database**.  
 - There is a need for the application program interface to be made available through **HTTP**.  
 
----
 
 ### Deployment Target
 **Kubernetes cluster** (you can use `Minikube`, a managed Kubernetes service like `EKS`, or any other local setup).  
 
----
 
 ### Plan Contents
 - **Infrastructure**: Describe the Kubernetes objects (e.g., `Deployments`, `Services`, `Ingress`, `Secrets`, `ConfigMaps`) and how you plan to structure them.  
