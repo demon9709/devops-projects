@@ -27,3 +27,5 @@ git clone https://github.com/your-username/devops-test-tasks.git
 ```
 
 And now you can start working on task. Good Luck!
+
+_Also if you have your own DevOps task, you can send it directly to this repo author. Thanks_
