@@ -16,7 +16,7 @@ The goal is not only to run the app, but also to build the image in a more **pro
    - Stage 2: run the app from a minimal image (`python:3.10-slim`).
 2. The app must run with **Gunicorn**, not with `flask run`.
 3. A `.dockerignore` must be included to exclude unnecessary files.
-4. The container must run on port **8000**.
+4. The container must run on port `8000`.
 5. The image must be optimized (no cache, minimal layers).  
 
 ---
