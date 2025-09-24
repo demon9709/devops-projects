@@ -15,7 +15,7 @@ Create a simple **AWS** infrastructure using **IaC (CloudFormation or Terraform)
 
 ### Amazon EFS  
 - Create an **Amazon EFS file system** named `tm-devops-test-efs.`  
-- Ensure that the **EFS file system** is mounted on the **ECS instances** to store the **HTML** content.  
+- Ensure that the **EFS** file system is mounted on the **ECS instances** to store the **HTML** content.  
 - Use appropriate security settings for the **EFS**.  
 
 ### Amazon ECS  
