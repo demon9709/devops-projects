@@ -1,4 +1,4 @@
-# Task 1: Advanced Dockerfile
+# Advanced Dockerfile
 
 📊 **Difficulty: ⭐ ☆ ☆ ☆ ☆ (1/5)**  
 
