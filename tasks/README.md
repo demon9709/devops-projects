@@ -23,3 +23,22 @@ Each folder contains the task description and all required files (if any).
 ---
 
 ⚡ Happy learning & practicing DevOps!
+
+---
+
+## 📊 Task Index by Difficulty
+
+### ⭐ Easy
+- [Advanced Dockerfile](./docker-task-1)
+
+### ⭐⭐ Medium
+- [Plan deployment for a web application](./k8s-python-api)
+
+### ⭐⭐⭐ Medium-Advanced
+- [Kubernetes Deployment with Monitoring](./k8s-monitoring-task-1)
+
+### ⭐⭐⭐⭐ Advanced
+- [AWS Infrastructure Setup Task 1](./aws-infrastructure-setup-task-1)
+
+### ⭐⭐⭐⭐⭐ Expert
+- [DevOps Infrastructure Deployment Task](./deployment-infrastructure)
